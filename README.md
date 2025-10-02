@@ -1,6 +1,6 @@
-## LeetCode Progress 
+# LeetCode Progress 
 
-# Array easy problems 
+### Array easy problems 
 - [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 - [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
